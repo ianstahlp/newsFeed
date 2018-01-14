@@ -5,15 +5,17 @@
     <meta charset="UTF-8">
     <title>Animals</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <div id="buttons">
-        <button id="weight-sort">Sort By Weight</button>
-        <button id="name-sort">Sort By Name</button>
+      
+        <button id="name-sort">Sort By Name Ascending</button>
     </div>
-    <div id="template">
+    <div id="template" class="card-columns">
         <!-- Results from DB here -->
     </div>
     <script src="app.js"></script>

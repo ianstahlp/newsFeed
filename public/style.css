@@ -1,5 +1,5 @@
 body {
-  background-color: #6a5;
+  background-color: #bf360c;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 a {
-  width: 500px;
+  
   background-color: antiquewhite;
 }
 
@@ -28,3 +28,9 @@ button {
 .active {
   color: red;
 }
+
+.card {
+
+  margin: 2rem;
+}
+
