@@ -2,7 +2,7 @@
 
 ###This is currently not finished 
 
-There are some things that I wnated to implement into this homework that I currently did not complete. What you will find is the pseudo code of what could have been and what will be. But before I get to that, lets talk about what I currently have. 
+There are some things that I wanted to implement into this homework that I currently did not complete. What you will find is the pseudo code of what could have been and what will be. But before I get to that, lets talk about what I currently have. 
 
 Right now, I have a data scraper, that gets pushed into my database, and is then displayed on the front end. I have npt been able to get to the point of creating a post it note or anything of the sort. 
 
